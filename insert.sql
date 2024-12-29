@@ -1,2 +1,2 @@
 insert into ttr_tax_payment all data new stage
-on git edit
+on git edit.1
